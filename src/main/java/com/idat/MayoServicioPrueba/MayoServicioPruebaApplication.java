@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MayoServicioPruebaApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(MayoServicioPruebaApplication.class, args);
 	}
 
